@@ -1,11 +1,11 @@
-# Proyecto ForoHub 💻
+# 💻 Proyecto ForoHub 
 Este proyecto, desarrollado en Java y SpringBoot es parte de mi formación en Alura Latam en el área de implementación de API.
 La API ForoHub es una API REST dedicada a la gestión integral de un foro, abarcando tópicos, respuestas y cursos. 
 Esta API proporciona una variedad de endpoints que permiten realizar operaciones esenciales, como crear, actualizar, listar y eliminar tópicos, respuestas y cursos. 
 Además, incluye funcionalidades avanzadas para filtrar tópicos según diferentes criterios, facilitando la búsqueda y organización de la información. 
 Con ForoHub, los desarrolladores pueden construir y mantener foros dinámicos y eficientes, optimizando la interacción y el intercambio de conocimientos entre los usuarios.
 
-# Reglas de Negocio 📏
+# 📏 Reglas de Negocio 
 
 ### 1. Registrar Tópico 
 Los usuarios autenticados pueden crear nuevos tópicos en el foro. Cada tópico debe incluir un título claro, una descripción detallada y etiquetas relevantes para facilitar la búsqueda y la organización.
@@ -34,7 +34,7 @@ Tanto Administradores como usuarios, pueden añadir respuestas a los tópicos pa
 
 Es posible modificar el contenido de las respuestas agregadas en un tópico particular, a manera de corrección en caso de errores de escritura u otros inconvenientes.
 
-# Funcionalidades Adicionales 🎁
+# 🎁 Funcionalidades Adicionales 
 Opté por implementar algunas funcionalidades más a fin de hacer este pequeño proyecto más completo en cuanto a gestión por
 parte de los administradores del mismo.
 
@@ -49,7 +49,7 @@ parte de los administradores del mismo.
 - Protección contra Ataques (clickjacking)
 - manejar los estados de los tópicos (Abierto, Cerrado, Archivado, Anclado).s.
 
-# Despliegue 🚀
+# 🚀 Despliegue
 
 Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instalado el JDK.
 
@@ -61,7 +61,7 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
 - Crea y prueba las requests en algún Rest Client como Insomnia o Postman
 - También puedes probar el proyecto con SpringDoc, usando la herramienta Swagger
 
-# Tecnologías Utilizadas 🔧
+# 🔧 Tecnologías Utilizadas 
 
 <div align="center">
 	<code><a href="https://www.oracle.com/java/" target="_blank"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a></code>
@@ -74,6 +74,6 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
 	<code><a href="https://insomnia.rest/download" target="_blank"><img width="50" src="https://i.ibb.co/s9RzC1t/insomnia-seeklogo.png" alt="Insomnia"  title="Insomnia"/></code>
 </div>
 
-# Acerca De 👤
+# 👤 Acerca De 
 
-Soy Christian Estupiñan Quintero, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack.
+Soy Christian Estupiñan, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack.
