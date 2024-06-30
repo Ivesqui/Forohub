@@ -73,3 +73,7 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
   	<code><a href="https://flywaydb.org/" target="_blank"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Flyway_logo.svg" alt="Flyway" title="Flyway"/></code>
 	<code><a href="https://insomnia.rest/download" target="_blank"><img width="50" src="https://i.ibb.co/s9RzC1t/insomnia-seeklogo.png" alt="Insomnia"  title="Insomnia"/></code>
 </div>
+
+# Acerca De 👤
+
+Soy Christian Estupiñan Quintero, un joven desarrollador Jr. comprometido con el aprendizaje continuo y con la meta de convertirme en desarrollador full-stack.
