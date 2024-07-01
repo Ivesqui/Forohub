@@ -51,6 +51,10 @@ parte de los administradores del mismo.
 - Protección contra Ataques (clickjacking)
 - manejar los estados de los tópicos (Abierto, Cerrado, Archivado, Anclado).s.
 
+# 🛢Esquema de Base de datos
+
+<div align=center><img src="./images/Schema.png" width="600"></div>
+
 # 🚀 Despliegue
 
 Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instalado el JDK.
@@ -62,6 +66,21 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
 - Ejecuta el proyecto
 - Crea y prueba las requests en algún Rest Client como Insomnia o Postman
 - También puedes probar el proyecto con SpringDoc, usando la herramienta Swagger
+
+# Ejemplo de funcionamiento
+
+Para la demostración de esta aplicación podemos hacer uso de insomnia o Swagger no afecta en nada su funcionalidad.
+
+Login:
+<div align=center><img src="./images/Login.png" width="500"></div>
+
+Insertar un tópico:
+
+<div align=center><img src="./images/insertTopic.png" width="500"></div>
+
+Listar un Tópico:
+
+<div align=center><img src="./images/listTopic.png" width="500"></div>
 
 # 🔧 Tecnologías Utilizadas 
 
