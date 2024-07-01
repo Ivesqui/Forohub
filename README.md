@@ -71,18 +71,18 @@ Sigue estos pasos para ejecutar el proyecto en tu equipo, recuerda tener instala
 
 Para la demostración de esta aplicación podemos hacer uso de insomnia o Swagger para probar cada uno de los endpoints.
 
-Login:
+### Login:
 <div align=center><img src="./images/Login.png" width="500"></div>
 
-Insertar un tópico:
+### Insertar un tópico:
 
 <div align=center><img src="./images/insertTopic.png" width="500"></div>
 
-Listar un Tópico:
+### Listar un Tópico:
 
 <div align=center><img src="./images/listTopic.png" width="500"></div>
 
-Vista de endpoints en Swagger-ui:
+### Vista de endpoints en Swagger-ui:
 
 <div align=center><img src="./images/Swagger.png" width="500"></div>
 
