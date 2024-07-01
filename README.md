@@ -1,3 +1,5 @@
+<div align=center><img src="./images/Badge-Spring.png" width="150"></div>
+
 # 💻 Proyecto ForoHub 
 Este proyecto, desarrollado en Java y SpringBoot es parte de mi formación en Alura Latam en el área de implementación de API.
 La API ForoHub es una API REST dedicada a la gestión integral de un foro, abarcando tópicos, respuestas y cursos. 
